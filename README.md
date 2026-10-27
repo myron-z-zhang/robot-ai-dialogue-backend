@@ -147,6 +147,10 @@ Technical enquiries and on-premise deployment discussions: **myron.z.zhang # gma
 
 You are also welcome to open an issue or message us through this repository.
 
+**Our hardware product lines have a separate product site** — education & companion robots,
+service & inspection robots, and mobile base platforms, with figures and OEM/ODM notes:
+[robots.softgear.work](https://robots.softgear.work)
+
 ---
 
 *This repository is a technical overview and does not constitute a product commitment; actual specifications and scope are governed by the project proposal and contract.*
